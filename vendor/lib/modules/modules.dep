@@ -1,0 +1,14 @@
+/vendor/lib/modules/mpq-adapter.ko:
+/vendor/lib/modules/msm_11ad_proxy.ko:
+/vendor/lib/modules/pn553.ko:
+/vendor/lib/modules/fpc1145_platform.ko:
+/vendor/lib/modules/rdbg.ko:
+/vendor/lib/modules/sim_detect.ko:
+/vendor/lib/modules/kscl.ko:
+/vendor/lib/modules/ldo_vibrator.ko:
+/vendor/lib/modules/br_netfilter.ko:
+/vendor/lib/modules/bu520x1nvx.ko:
+/vendor/lib/modules/tspp.ko:
+/vendor/lib/modules/gspca_main.ko:
+/vendor/lib/modules/wlan.ko:
+/vendor/lib/modules/mpq-dmx-hw-plugin.ko: /vendor/lib/modules/tspp.ko /vendor/lib/modules/mpq-adapter.ko
